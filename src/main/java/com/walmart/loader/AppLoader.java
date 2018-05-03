@@ -25,9 +25,13 @@ public class AppLoader implements CommandLineRunner {
 	@Autowired
 	DataSource dataSource;
 
+	public void test(){
+
+	}
+
 
 	@Autowired
-	EmployeeRepository employeeRepository;
+	EmployeeRepository employeeRepository1;
 
 	@Override
 	public void run(String... arg0) throws Exception {

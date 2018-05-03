@@ -26,7 +26,6 @@ public class AppLoader implements CommandLineRunner {
 	DataSource dataSource;
 
 	public void test2(){
-
 	}
 
 

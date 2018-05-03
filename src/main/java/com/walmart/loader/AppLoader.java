@@ -25,7 +25,8 @@ public class AppLoader implements CommandLineRunner {
 	@Autowired
 	DataSource dataSource;
 
-	public void test21(){
+
+	public void test7(){
 	}
 
 
